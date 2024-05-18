@@ -16,7 +16,7 @@ This project is a comprehensive mental health application designed to support us
 
 ## Repositories
 - **Frontend**: [Mental Health App Frontend](https://github.com/AnushkaShendge/timepass4)
-- **Backend**: [Mental Health App Backend](https://github.com/vvinayakkk/Mental-health-backend/tree/main)
+- **Backend**: [Financial_Tracker_Backend](https://github.com/vvinayakkk/financial-backend.git)
 
 ## Technologies Used
 ### Frontend
