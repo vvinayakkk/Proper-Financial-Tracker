@@ -1,7 +1,7 @@
-# Mental-Health Application
-![WhatsApp Image 2024-05-19 at 00 04 41_cb169b70](https://github.com/vvinayakkk/Mental-Health-Wellcare/assets/140016882/5c4fd964-059c-4e10-90ab-d57aa2656247)
+# Personalised Financial Tracker 
+![Screenshot 2024-05-09 021016](https://github.com/vvinayakkk/Proper-Financial-Tracker/assets/140016882/2240554b-e322-49de-a83a-27166ed06661)
+![Screenshot 2024-05-09 021038](https://github.com/vvinayakkk/Proper-Financial-Tracker/assets/140016882/c06f9019-869a-42b0-9fdc-2882b1809657)
 
-![WhatsApp Image 2024-05-18 at 21 20 48_dbb9f600](https://github.com/vvinayakkk/Mental-Health-Wellcare/assets/140016882/73c5a044-ec0f-4a34-92da-3b700a47d952)
 
 ## Overview
 This project is a comprehensive mental health application designed to support users in maintaining and improving their mental well-being. The application includes a chatbot using Langchain, a meditation page, a quiz to assess mental health status, engaging games, and a blog section for reading and sharing content. The frontend is built with React, utilizing Framer Motion and GSAP for animations, while the backend is powered by Django with JWT authentication.
@@ -15,7 +15,7 @@ This project is a comprehensive mental health application designed to support us
 - **Authentication**: Secure user authentication using JWT tokens.
 
 ## Repositories
-- **Frontend**: [Mental Health App Frontend](https://github.com/AnushkaShendge/timepass4)
+- **Frontend**: [Financial_Tracker Frontend](https://github.com/maazmalik2004/financial-tracker-frontend.git)
 - **Backend**: [Financial_Tracker_Backend](https://github.com/vvinayakkk/financial-backend.git)
 
 ## Technologies Used
@@ -38,8 +38,8 @@ This project is a comprehensive mental health application designed to support us
 ### Frontend Setup
 1. Clone the frontend repository:
    ```bash
-   git clone https://github.com/AnushkaShendge/timepass4.git
-   cd timepass4
+   git clone https://github.com/maazmalik2004/financial-tracker-frontend.git
+   cd financial-tracker-frontend
 
 2. Install the dependencies:
    ```bash
@@ -52,8 +52,7 @@ This project is a comprehensive mental health application designed to support us
 ### Backend Setup
 1. Clone the backend repository:
    ```bash
-   git clone https://github.com/vvinayakkk/Mental-health-backend.git
-   cd Mental-health-backend
+   git clone https://github.com/vvinayakkk/financial-backend.git
 
 2. Apply the Migrations:
    ```bash
