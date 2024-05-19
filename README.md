@@ -4,15 +4,15 @@
 
 
 ## Overview
-This project is a comprehensive mental health application designed to support users in maintaining and improving their mental well-being. The application includes a chatbot using Langchain, a meditation page, a quiz to assess mental health status, engaging games, and a blog section for reading and sharing content. The frontend is built with React, utilizing Framer Motion and GSAP for animations, while the backend is powered by Django with JWT authentication.
+This project is a personalised Financial Tracker designed to support users in maintaining and improving their finances. The application includes a chatbot using Langchain, a categories section,a retirement planner, better graph visualization ,a transaction form section and multiuser authentication. The frontend is built with React, utilizing Framer Motion and GSAP for animations, while the backend is powered by Django with JWT authentication.
 
 ## Features
 - **Chatbot**: A chatbot implemented using Langchain to provide conversational support.
-- **Meditation Page**: Guided meditations and resources to help users practice mindfulness and relaxation.
-- **Quiz Section**: An interactive quiz to assess users' mental health status and provide feedback.
-- **Games Section**: Fun and engaging games designed to entertain and relax users.
-- **Blog Section**: A platform for users to read articles by famous authors and contribute their own blogs.
-- **Authentication**: Secure user authentication using JWT tokens.
+- **Categories Page**: Income And Expense Categories Page to add or delete categories
+- **Retirement Planner**: Based on the asked input, the algorithm suggests savings based on desired output for future
+- **Graph Visualization**: Better visualization of income and expense sources via pie charts, bar graphs and other forms
+- **Transaction Forms**: A form to log in new transactions either regular or recurring based on whenever it occurs
+- **Authenticatio**: Secure user authentication using JWT tokens.
 
 ## Repositories
 - **Frontend**: [Financial_Tracker Frontend](https://github.com/maazmalik2004/financial-tracker-frontend.git)
